@@ -2,10 +2,15 @@
   url: "/"
   side: left
 
-- title: About BCG
+- title: Information
   url: "/info/"
   side: left
-  
+  dropdown:
+  - title: "More about BCG"
+    url: "/info/" 
+  - title: "Meetings"
+    url: "/meetings/"
+
 - title: People
   url: "/people/"
   side: left
@@ -40,7 +45,7 @@
     url: "/resources/tutorials/"
   - title: "Career"
     url: "/resources/career"    
-
+    
 - title: Blog
   url: "/blog/"
   side: left
