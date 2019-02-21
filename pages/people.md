@@ -40,10 +40,10 @@ they participate in. If you would like to add your own page, see the link below.
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <a href="{{ site.url }}{{ site.baseurl }}/people/add-person">
-        <img src="{{ site.urlimg }}/people/bcg.png" alt=""></a>
-        <p><a href="{{ site.url }}{{ site.baseurl }}/people/add-person">Add yourself!</a> </p>
-        <p>Interests: Biology, Bioinformatics, Programming</p>
+        <a href="{{ site.url }}{{ site.baseurl }}/people/davidk">
+        <img src="{{ site.urlimg }}/people/davidk.jpg" alt=""></a>
+        <p><a href="{{ site.url }}{{ site.baseurl }}/people/davidk">David C. King</a></p>
+        <p>Interests: Bioinformatics. HPC. Cell and developmental biology. Genetic control of development. Molecular Evolution. Statistics and reproducible research.</p>
         </div><!-- /.medium-4.columns -->
         
     <div class="medium-4 columns">
