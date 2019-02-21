@@ -43,6 +43,7 @@ David is an interdisciplinary scientist with a background in biology and bioinfo
             <li><b>Publications:</b>
                 <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=(David+C.+King%5BAuthor+-+Full%5D)+NOT+%22Ultrasonics+sonochemistry%22%5BJournal%5D+NOT+%22Immunology%22%5BJournal%5D+NOT+%22Clin+Oral+Investig.%22%5BJournal%5D++NOT+%22Ir+Vet+J%22%5BJournal%5D">Pubmed</a>
             </li>
+            <li><b><a href="www.github.com/meekrob">Github</a></b></li>
         </ul>
     </div>
 </div>
