@@ -1,52 +1,54 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
-#
-# Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
-# To style the button in different colors, use no value
-# to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
-#
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
 permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+<!--more-->
+<div class="row medium-uncollapse large-collapse" style="vertical-align: middle; line-height:200px">
+    <div class="medium-4 columns"><center>
+    <a href="{{ site.url }}{{ site.baseurl }}/info/">
+    <img src="{{ site.urlimg }}/bcg_logo2.png" alt=""></a></center>
+    </div><!-- /.medium-4.columns -->	
+    <div class="medium-6 columns end">
+    	<ul style="list-style-type:none">
+    	<li><h2>What is Bio Code Group?</h2></li>
+		<li> BCG is an informal community at Colorado State University committed to advancing 
+		programming, bioinformatics, and computational biology skills through hands-on practice
+		and collaboration. We are mainly biologists, by training, that recognize the how valuable
+		learning to code can be for biological research with the ever increasing amount of data
+		we produce. Even if you want to spend the majority of your time as a biologist at the bench,
+		learning these skills can help you accelerate and understand your work better. We welcome
+		everyone that is interested in advancing programming, data science, or bioinformatics skills
+		to join us. <a href="{{ site.url }}{{ site.baseurl }}/info/"> More info ›</a></li>
+		</ul>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+<hr />
+<div class="row medium-uncollapse large-collapse" style="vertical-align: middle; line-height:200px">
+    <div class="medium-4 columns"><center>
+    <a href="{{ site.url }}{{ site.baseurl }}/meetings/">
+    <img src="{{ site.urlimg }}/general/rawpixel-702137-unsplash.jpg" alt=""></a></center>
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-6 columns end">
+    	<ul style="list-style-type:none">
+    	<li><h3>Meetings & Events</h3></li>
+		<li> Our main goal is to connect you with other biologists working on coding projects or
+		interested in advancing their skillset in computational biology. We communicate about
+		projects on Slack and GitHub, but also meet weekly to work on code. We hope to create an 
+		encouraging environment for learning as well as make sure students dedicate at least a 
+		couple hours per week to practice. Students can code or come here for guidance. 
+		 <a href="{{ site.url }}{{ site.baseurl }}/meetings/"> More info › </a></li>
+		<li><h4> Lunch and Code </h4></li>
+		<li><b>Mondays, 12-2pm, BIO 428</b></li>
+		<li>We host weekly meetups for everyone to just sit down and work on coding. Bring your lunch and a
+		project to work on! </li>
+		</ul>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+<br>
+<center><a class="button large radius alert" href="https://biokcb.github.io/contact/">Inform me about meetings and participating ›</a></center>
+
+
+
+

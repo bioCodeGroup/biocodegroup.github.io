@@ -1,61 +1,49 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "About BCG"
+subheadline: "Why create a code group?"
+teaser: "Many graduate students in biology want to learn programming and to be able to confidently use it or add it to their resume. However, learning often stops at the introductory coursework or there is a mismatch in expectations during the course. BCG hopes to provide an encouraging environment to just sit down and code with other students."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "general/nathan-anderson-141325-unsplash.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+We started this group as a small way to encourage each other to practice coding at beginner and more advanced levels by providing opportunities for participation in educational projects and teaching. 
+We currently focus on practical Python programming for scientists (automation of tasks, data analytics, visualization) over bioinformatic algorithms (such as those found on Rosalind). However, you can join us to code anything in any language. 
+The basic idea is that we want to dedicate time each week to coding and meeting to work on projects together. We also hope to provide career guidance and a place to build a portfolio of work for job applications. Bring your own project or join one of ours, you can even just bring your research or course projects.
 
+<b>Who should join?</b>
 
-## Features
+All skill levels are welcome. Much like any skill, coding requires practice to master. Even if you struggled with the coursework, if you continue to practice you will get better. Advanced students can help beginners - a great way to solidify technical knowledge.
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+<b>Why create a coding group?</b>
 
+From discussions with students and instructors, many of the people that leave the intro courses are not prepared enough for a career involving programming or bioinformatics. They often never code again or experience frustration coding on their own after the coursework.
 
+By getting together to just practice coding you can work in an environment that will provide practice more suited to your own background and pace alongside others that can provide tips and alternative perspectives.
 
-## I got inspired by...
+<b>What will we do?</b>
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+Meetings are intended to provide a community space to practice coding. We simply want to provide an encouraging environment for you to reach your goals. A place to ask questions and work on projects that either interest you or allow you to have structured practice.
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
+We will use git and GitHub for projects, as we also want to provide a platform for collaboration and a portfolio, as well as gain an in-demand skill (version control) for computational positions in industry. Well-documented projects are great to have for your resume and technical interviews, even if they are simple.
 
-#### Since then, fork it!
+During meetings you may work on various projects:
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+1) Bring your own personal or research project
 
+2) We can provide a beginner or intermediate practice group project
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+3) A fellow group member's project that might involve various aspects of coding or data analysis
+
+This is a very hands-on group. Guidance comes in the form of answering questions, providing resources, and assigning tasks. You can also just sit down and code without talking to anyone.
+
+<b>What will we not do?</b>
+
+We will not have lectures on programming and expect that you are learning through practice and project development. We will share resources with you for learning and if you need more hands-on guidance either ask your peers on slack or we can work with you a bit more on guiding an educational project.
+
+<b>What can I expect to get out of this?</b>
+
+If you want a career that involves a lot of coding or bioinformatics, there is very high chance you'll go through a technical interview of some kind. Simply taking a beginner course at the level we have here will not be enough to prepare you. We hope the continued practice and experience will prepare you.
+
+We also provide resources for self-learning, links to workshops or tutorials to attend, notice of networking opportunities and career guidance. We are also interested in having you put together a portfolio of work and practice communicating your projects and skills. This group is very focused on making sure you find and succeed in a target career.
