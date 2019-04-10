@@ -50,7 +50,9 @@ She is practicing coding in R and python to expand her coding toolkit for future
 <b> My projects & contributions </b>
 
 Sequence File Converter (Utility scripts) 
-ImageJ / FIJI macros (Image Processing Codes)
+
+ImageJ / FIJI macros (Image Processing Codes) 
+
 Mathematica image analysis scripts (Image Processing Codes)
 
 <div class="row">
