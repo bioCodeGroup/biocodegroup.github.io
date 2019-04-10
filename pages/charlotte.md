@@ -35,15 +35,7 @@ She is interested in using programming, data science, and statistics to advance 
 
 </div><!-- /.row -->
 <br>
-<b> A bit more background </b><br>
 
-<br>
-<b> My career interests </b><br>
-
-<br>
-<b> My research Interests </b><br>
-
-<br>
 <b> My PhD work </b><br>
 
 Charlotte's project is a collaboration of her co-mentors, Tai Montgomery and Tim Stasevich. She is using Dr. Stasevich’s novel imaging technique to illucidate the mechanism of microRNA and protein Argonaute in gene silencing at the translation level. Her project seeks to further our understanding protein translation regulation and mRNA decay.
@@ -55,11 +47,12 @@ Currently, Charlote uses Mathematica and ImageJ to analyze images. She writes ma
 
 She is practicing coding in R and python to expand her coding toolkit for future data science projects. 
 
-<br>
-<b> Random facts </b>
-<br>
-
 <b> My projects & contributions </b>
+
+Sequence File Converter (Utility scripts) 
+ImageJ / FIJI macros (Image Processing Codes)
+Mathematica image analysis scripts (Image Processing Codes)
+
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}/general/gallery-example-8.jpg" alt="">
