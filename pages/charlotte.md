@@ -6,8 +6,8 @@ permalink: "/people/charlotte"
 ---
 <!--more-->
 
-Charlotte is a PhD student in the Biochemistry and Molecular Biology program studying translational repression dynamics.
-She is interested in using programming and data science to advance biomedical research. 
+Charlotte is a PhD student in the Biochemistry and Molecular Biology program studying a repression mechanism of gene expression. 
+She is interested in using programming, data science, and statistics to advance biomedical research. 
 
 <div class="row medium-uncollapse large-collapse">
     <div class="medium-6 columns">
@@ -35,27 +35,26 @@ She is interested in using programming and data science to advance biomedical re
 
 </div><!-- /.row -->
 <br>
-<b> A bit more background </b><br>
 
-<br>
-<b> My career interests </b><br>
-
-<br>
-<b> My research Interests </b><br>
-
-<br>
 <b> My PhD work </b><br>
+
+Charlotte's project is a collaboration of her co-mentors, Tai Montgomery and Tim Stasevich. She is using Dr. Stasevich’s novel imaging technique to illucidate the mechanism of microRNA and protein Argonaute in gene silencing at the translation level. Her project seeks to further our understanding protein translation regulation and mRNA decay.
 
 <br>
 <b> My current BCG work</b><br>
 
-Currently I am practicing coding in python to use for eventual data science projects. 
+Currently, Charlote uses Mathematica and ImageJ to analyze images. She writes macros in ImageJ to post-process raw images from her lab's home-made single-molecule microscope and to do simple analyses. For single particle tracking and intensity analyses and making plots and charts, Charlote uses Mathematica scripts. 
 
-<br>
-<b> Random facts </b>
-<br>
+She is practicing coding in R and python to expand her coding toolkit for future data science projects. 
 
 <b> My projects & contributions </b>
+
+Sequence File Converter (Utility scripts) 
+
+ImageJ / FIJI macros (Image Processing Codes) 
+
+Mathematica image analysis scripts (Image Processing Codes)
+
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}/general/gallery-example-8.jpg" alt="">
