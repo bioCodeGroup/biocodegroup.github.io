@@ -6,8 +6,8 @@ permalink: "/people/charlotte"
 ---
 <!--more-->
 
-Charlotte is a PhD student in the Biochemistry and Molecular Biology program studying translational repression dynamics.
-She is interested in using programming and data science to advance biomedical research. 
+Charlotte is a PhD student in the Biochemistry and Molecular Biology program studying repression of gene expression. 
+She is interested in using programming, data science, and statistics to advance biomedical research. 
 
 <div class="row medium-uncollapse large-collapse">
     <div class="medium-6 columns">
@@ -46,10 +46,13 @@ She is interested in using programming and data science to advance biomedical re
 <br>
 <b> My PhD work </b><br>
 
+
 <br>
 <b> My current BCG work</b><br>
 
-Currently I am practicing coding in python to use for eventual data science projects. 
+Currently, I use Mathematica and ImageJ to analyze images. I write macros in ImageJ to post-process raw images from my lab's home-made single-molecule microscope and to do do simple analyses. For single particle tracking and intensity analyses and making plots and charts, I use Mathematica scripts. 
+
+I am practicing coding in R and python to expand my coding toolkit for future data science projects. 
 
 <br>
 <b> Random facts </b>
